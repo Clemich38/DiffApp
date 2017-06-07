@@ -10,6 +10,7 @@ using Amazon.S3;
 using Amazon;
 using Amazon.Runtime.CredentialManagement;
 using Amazon.Runtime;
+using Amazon.S3.Model;
 
 using DiffApp.Diff;
 using DiffApp.ViewModels;
@@ -61,6 +62,40 @@ namespace DiffApp.Controllers
             
             return View("Index", buketsList);
         }
+
+        
+        public async Task<IActionResult> DownloadFile()
+        {
+            S3BuketsList buketsList = new S3BuketsList();
+
+            CredentialProfile basicProfile;
+            AWSCredentials awsCredentials;
+            var sharedFile = new SharedCredentialsFile();
+            if (sharedFile.TryGetProfile("SimCheckAppProfile", out basicProfile) &&
+                AWSCredentialsFactory.TryGetAWSCredentials(basicProfile, sharedFile, out awsCredentials))
+            {
+                using (var client = new AmazonS3Client(awsCredentials, Amazon.RegionEndpoint.APNortheast1))
+                {
+                    GetObjectRequest getObjectRequest = new GetObjectRequest();
+                    getObjectRequest.BucketName = "devpiece";
+                    getObjectRequest.Key = "product_file/20151120064251-4834-index.html.zip";
+
+                    // Get the path to upload the pictures
+                    string filesPath = Path.Combine(_environment.WebRootPath, "files/PieceDL");
+                    string file1Path = Path.Combine(filesPath, getObjectRequest.Key);
+                    System.Threading.CancellationToken token;
+                    GetObjectResponse getObjectResponse = await client.GetObjectAsync(getObjectRequest);
+
+                    await getObjectResponse.WriteResponseStreamToFileAsync(file1Path, false, token);
+                }
+            }
+            
+            return View("Index", buketsList);
+        }
+
+        // product_file/20161116114608-00000130-dotnet.highcharts.samples.zip
+        // product_file/20151120064251-4834-index.html.zip
+
         public IActionResult DiffResult(bool fast)
         {
             int perc = 0;
