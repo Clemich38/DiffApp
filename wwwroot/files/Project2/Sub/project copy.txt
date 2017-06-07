@@ -1,0 +1,275 @@
+Piece logo DiffApp
+Similarity process results:
+
+Overall projects similarity estimation: 28 %
+
+Processing time: 536 ms
+
+Details:
+
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/.DS_Store
+Best Match found: 0%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File1.txt
+Best Match found: 54%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File2.txt
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/FileList.txt
+Best Match found: 17%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/HomeController.txt
+Best Match found: 82%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/intrus.js
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/NewFile.txt
+Best Match found: 13%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/subFolder/zbvuabzvnlqknrv.txt
+Best Match found: 13%  
+Piece logo DiffApp
+Similarity process results:
+
+Overall projects similarity estimation: 28 %
+
+Processing time: 536 ms
+
+Details:
+
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/.DS_Store
+Best Match found: 0%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File1.txt
+Best Match found: 54%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File2.txt
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/FileList.txt
+Best Match found: 17%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/HomeController.txt
+Best Match found: 82%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/intrus.js
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/NewFile.txt
+Best Match found: 13%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/subFolder/zbvuabzvnlqknrv.txt
+Best Match found: 13%  
+Piece logo DiffApp
+Similarity process results:
+
+Overall projects similarity estimation: 28 %
+
+Processing time: 536 ms
+
+Details:
+
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/.DS_Store
+Best Match found: 0%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File1.txt
+Best Match found: 54%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File2.txt
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/FileList.txt
+Best Match found: 17%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/HomeController.txt
+Best Match found: 82%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/intrus.js
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/NewFile.txt
+Best Match found: 13%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/subFolder/zbvuabzvnlqknrv.txt
+Best Match found: 13%  
+Piece logo DiffApp
+Similarity process results:
+
+Overall projects similarity estimation: 28 %
+
+Processing time: 536 ms
+
+Details:
+
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/.DS_Store
+Best Match found: 0%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File1.txt
+Best Match found: 54%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File2.txt
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/FileList.txt
+Best Match found: 17%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/HomeController.txt
+Best Match found: 82%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/intrus.js
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/NewFile.txt
+Best Match found: 13%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/subFolder/zbvuabzvnlqknrv.txt
+Best Match found: 13%  
+Piece logo DiffApp
+Similarity process results:
+
+Overall projects similarity estimation: 28 %
+
+Processing time: 536 ms
+
+Details:
+
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/.DS_Store
+Best Match found: 0%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File1.txt
+Best Match found: 54%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File2.txt
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/FileList.txt
+Best Match found: 17%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/HomeController.txt
+Best Match found: 82%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/intrus.js
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/NewFile.txt
+Best Match found: 13%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/subFolder/zbvuabzvnlqknrv.txt
+Best Match found: 13%  
+Piece logo DiffApp
+Similarity process results:
+
+Overall projects similarity estimation: 28 %
+
+Processing time: 536 ms
+
+Details:
+
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/.DS_Store
+Best Match found: 0%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File1.txt
+Best Match found: 54%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File2.txt
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/FileList.txt
+Best Match found: 17%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/HomeController.txt
+Best Match found: 82%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/intrus.js
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/NewFile.txt
+Best Match found: 13%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/subFolder/zbvuabzvnlqknrv.txt
+Best Match found: 13%  
+Piece logo DiffApp
+Similarity process results:
+
+Overall projects similarity estimation: 28 %
+
+Processing time: 536 ms
+
+Details:
+
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/.DS_Store
+Best Match found: 0%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File1.txt
+Best Match found: 54%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File2.txt
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/FileList.txt
+Best Match found: 17%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/HomeController.txt
+Best Match found: 82%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/intrus.js
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/NewFile.txt
+Best Match found: 13%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/subFolder/zbvuabzvnlqknrv.txt
+Best Match found: 13%  
+Piece logo DiffApp
+Similarity process results:
+
+Overall projects similarity estimation: 28 %
+
+Processing time: 536 ms
+
+Details:
+
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/.DS_Store
+Best Match found: 0%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File1.txt
+Best Match found: 54%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File2.txt
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/FileList.txt
+Best Match found: 17%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/HomeController.txt
+Best Match found: 82%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/intrus.js
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/NewFile.txt
+Best Match found: 13%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/subFolder/zbvuabzvnlqknrv.txt
+Best Match found: 13%  
+Piece logo DiffApp
+Similarity process results:
+
+Overall projects similarity estimation: 28 %
+
+Processing time: 536 ms
+
+Details:
+
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/.DS_Store
+Best Match found: 0%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File1.txt
+Best Match found: 54%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File2.txt
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/FileList.txt
+Best Match found: 17%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/HomeController.txt
+Best Match found: 82%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/intrus.js
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/NewFile.txt
+Best Match found: 13%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/subFolder/zbvuabzvnlqknrv.txt
+Best Match found: 13%  
+Piece logo DiffApp
+Similarity process results:
+
+Overall projects similarity estimation: 28 %
+
+Processing time: 536 ms
+
+Details:
+
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/.DS_Store
+Best Match found: 0%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File1.txt
+Best Match found: 54%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File2.txt
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/FileList.txt
+Best Match found: 17%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/HomeController.txt
+Best Match found: 82%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/intrus.js
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/NewFile.txt
+Best Match found: 13%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/subFolder/zbvuabzvnlqknrv.txt
+Best Match found: 13%  
+Piece logo DiffApp
+Similarity process results:
+
+Overall projects similarity estimation: 28 %
+
+Processing time: 536 ms
+
+Details:
+
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/.DS_Store
+Best Match found: 0%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File1.txt
+Best Match found: 54%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/File2.txt
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/FileList.txt
+Best Match found: 17%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/HomeController.txt
+Best Match found: 82%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/intrus.js
+Best Match found: 100%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/NewFile.txt
+Best Match found: 13%  
+File Name: /Users/Clement/Work/dotNET/DiffApp/wwwroot/files/project1/subFolder/zbvuabzvnlqknrv.txt
+Best Match found: 13%  

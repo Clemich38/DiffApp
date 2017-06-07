@@ -1,0 +1,62 @@
+﻿@model DiffApp.ViewModels.AWS.S3BuketsList
+@{
+    ViewData["Title"] = "Home Page";
+}
+<form class="form-group" method="post" asp-action="Login" asp-controller="Home" enctype="multipart/form-data">
+    <div>
+        <div style="margin-top:30px;">
+            <input type="submit" value="List Buckets" class="btn btn-info btn-sm" />
+        </div>
+    </div>
+</form>
+
+
+<!--<form class="form-group" method="post" asp-action="DiffResult" asp-controller="Home" enctype="multipart/form-data">
+    <div>
+        <div style="margin-top:30px;">
+            <input type="submit" value="Process diff!" class="btn btn-info btn-sm" />
+        </div>
+    </div>
+</form>-->
+
+<!--<div style="margin-top:30px;">
+    @using (Html.BeginForm("DiffResultAsync","Home", new { fast = false }, FormMethod.Post))
+    {
+        <p>
+            <input type="submit" value="Process diff (Slow)" class="btn btn-info btn-sm"/>
+        </p>
+    }  
+</div>-->
+
+<!--<div style="margin-top:30px;">
+    @using (Html.BeginForm("DiffResult","Home", new { fast = false }, FormMethod.Post))
+    {
+        <p>
+            <input type="submit" value="Process diff (Fast)" class="btn btn-info btn-sm"/>
+        </p>
+    }  
+</div>-->
+
+<div style="margin-top:30px;">
+    @using (Html.BeginForm("ProjectDiffResult","Home", FormMethod.Post))
+    {
+        <p>
+            <input type="submit" value="Process directory diff" class="btn btn-info btn-sm"/>
+        </p>
+    }  
+
+</div>
+
+<div style="margin-top:30px;">
+    @if (Model.ListBuckets != null)
+    {
+        <p>Nb of Buckets: @Model.ListBuckets.Buckets.Count</p>
+
+        @foreach (var bucket in Model.ListBuckets.Buckets) 
+      {
+          <li style="margin-top:10px;">
+              <p>File Name: @bucket.BucketName</p>
+          </li>
+      }
+    }
+</div>

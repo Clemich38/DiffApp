@@ -1,0 +1,19 @@
+@model DiffApp.ViewModels.FileList
+@{
+    ViewData["Title"] = "Directory Diff result";
+}
+
+<div style="margin-top:30px;">
+    <strong>Results:</strong></br></br>
+   
+      @foreach (var file in Model.List) 
+      {
+          <li style="margin-top:30px;">
+              <p>File Name: @file.fileName</p>
+              <p>Similarity:<span style="color:teal">@file.SimilarityPerc%</span></p>
+              <p>To Re-Analyze: @file.ToReanalyze</p>
+              <p>Processing time: @file.ProcessingTime</p>
+          </li>
+      }
+
+</div>

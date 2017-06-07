@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Diff result";
+}
+
+<div style="margin-top:30px;">
+    <strong>Results:</strong></br></br>
+    <!--@ViewData["DiffPercentage"]-->
+    <strong style="color:teal">@ViewData["Similarity"]</strong></br>
+    Processing Time: @ViewData["ProcessingTime"]</br>
+    @ViewData["Error"]
+
+</div>

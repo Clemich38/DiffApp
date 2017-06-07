@@ -1,0 +1,34 @@
+using System.IO;
+using System.IO.Compression;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
+using ImageSharp;
+using ImageSharp.Formats;
+
+namespace DiffApp.ViewModels
+{
+  public class ProjectFileList
+  {
+    public string Directory { get; set; }
+    public IList<FileList> List { get; set; }
+  }
+
+  public class FileList
+  {
+    public string Directory { get; set; }
+    public string fileName { get; set; }
+    public IList<FileItem> List { get; set; }
+  }
+
+  public class FileItem
+  {
+    public string fileName { get; set; }
+    public int SimilarityPerc { get; set; }
+    public int ProcessingTime { get; set; }
+    public bool ToReanalyze { get; set; }
+  }
+
+}
